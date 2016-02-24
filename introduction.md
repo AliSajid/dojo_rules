@@ -4,3 +4,5 @@ I love Ruby and JavaScript!
 * Python
 * R
 * Ruby
+* Github
+* Killing history using git rebase
